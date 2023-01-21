@@ -51,6 +51,10 @@
 
 [![](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)](https://github.com/HusseinDossoki)
 [![](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)](https://github.com/HusseinDossoki)
+[![](https://img.shields.io/badge/Docker-3597ed?style=flat&logo=docker&logoColor=white)](https://github.com/HusseinDossoki)
+[![](https://img.shields.io/badge/Kubernetes-3169de?style=flat&logo=kubernetes&logoColor=white)](https://github.com/HusseinDossoki)
+[![](https://img.shields.io/badge/Github%20Actions-3169de?style=flat&logo=githubActions&logoColor=white)](https://github.com/HusseinDossoki)
+[![](https://img.shields.io/badge/Azure%20DevOps-2975d1?style=flat&logo=azure-devops&logoColor=white)](https://github.com/HusseinDossoki)
 
 [![](https://img.shields.io/badge/Stripe-626CD9?style=flat&logo=Stripe&logoColor=white)](https://github.com/HusseinDossoki)
 
