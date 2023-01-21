@@ -20,7 +20,6 @@
 
 <!-- - ⚡ Fun fact: ... -->
 
-<hr/>
 
 ## Social Networks 👨‍🦲
 
