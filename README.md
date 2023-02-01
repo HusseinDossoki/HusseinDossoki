@@ -57,3 +57,5 @@
 
 [![](https://img.shields.io/badge/Stripe-626CD9?style=flat&logo=Stripe&logoColor=white)](https://github.com/HusseinDossoki)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=husseindossoki&layout=compact&langs_count=8)](https://github.com/husseindossoki/github-readme-stats)
+
